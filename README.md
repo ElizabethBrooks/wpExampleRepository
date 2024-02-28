@@ -1,2 +1,2 @@
 # wpExampleRepository
-Example repository for GitHub Version Control Quick Start Guide on the Morphoscape Word Press site
+Example repository for the GitHub Version Control Quick Start Guide on the Morphoscape Word Press site
